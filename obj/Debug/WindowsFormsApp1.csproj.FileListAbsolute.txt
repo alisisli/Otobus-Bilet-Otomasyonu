@@ -1,0 +1,56 @@
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\bilet.accdb
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bilet.resources
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayitOlForm.resources
+C:\Users\CASPER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splash.resources
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\bilet.accdb
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bilet.resources
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayitOlForm.resources
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splash.resources
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\bilet.accdb
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bilet.resources
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayitOlForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splash.resources
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\Ali Şişli\NTP\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\bilet.accdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bilet.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayitOlForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splash.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Otobüs Bilet Otomasyonu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
